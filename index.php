@@ -33,7 +33,7 @@ include 'db.php';
             <img src="img/' . $fila["imagen"] . '" class="card-img-top poster" alt="' . $fila["titulo"] . '" />
             <div class="card-body">
               <h5 class="card-title">' . $fila["titulo"] . '</h5>
-              <p class="descripcion" style="display:none;">' . $fila["descripcion"] . '</p>
+              <p class="descripcion" style="display:none;">' . $fila["descripción"] . '</p>
               <button class="btn btn-outline-primary ver-detalles">Ver más</button>
             </div>
           </div>
