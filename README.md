@@ -4,11 +4,11 @@
 
 ## Característiques
 
-- 🌐 Disseny responsive amb Bootstrap
-- 📦 Consulta de pel·lícules des d'una base de dades MySQL
-- 🎨 Interaccions visuals amb jQuery (mostrar/ocultar resums)
-- ☁️ Allotjada en un servidor online gratuït
-- 📁 Codi font disponible a GitHub
+-  Disseny responsive amb Bootstrap
+-  Consulta de pel·lícules des d'una base de dades MySQL
+- Interaccions visuals amb jQuery (mostrar/ocultar resums)
+-  Allotjada en un servidor online gratuït
+-  Codi font disponible a GitHub
 
 ## Com utilitzar
 
@@ -19,4 +19,4 @@
 
 ## Demo online
 
-📍 [Enllaç a Cinemedia en viu](https://tuenllaçgratuit.000webhostapp.com)
+ [Enllaç a Cinemedia en viu](https://tuenllaçgratuit.000webhostapp.com)
