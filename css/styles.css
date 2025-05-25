@@ -1,0 +1,17 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.poster {
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.poster.ampliada {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+
+.descripcion {
+  display: none;
+}
